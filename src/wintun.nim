@@ -3,7 +3,7 @@ import logging
 import times
 import os
 
-import loader
+import wintun/loader
 export loader
 
 
